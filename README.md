@@ -3,14 +3,14 @@ VZBot style frame brace for Voron Trident
 
 <img src="Images/Trident_Frame_Brace.png" width="700">
 
-Originally meant for my Tallboy Doom Frame Trident to help with Input Shaper tuning. These braces can be used on any 2020 framed 3D printer, but regular frame Tridents will have limited mounting options. 
+Originally meant for my Tallboy Doom Frame Trident as an Input Shaper tuning experiment. These braces can be used on any 2020 framed 3D printer.
 
 ## STLs Description
 
 - Trident Frame Brace Large
 	- Same size as original VZBot brace.
 - Trident Frame Brace Small
-	- Size to match up with gantry mounting points.
+	- Sized to match up with gantry mounting points if using a Doom Frame Trident.
 - Doom Trident Brace
 	- Large brace with 0.5mm of extra clearance on one side for Trident Z carriages when mounted to a 2040/4040 Doom Frame with original style panels. 
 	
