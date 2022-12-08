@@ -21,7 +21,7 @@ Originally meant for my Tallboy Doom Frame Trident to help with Input Shaper tun
 
 #Installed Photo
 
-<img src="Images/Frame_Brace_Installed.jpg"
+<img src="Images/Frame_Brace_Installed.jpg" width="700">
 
 #Credits
 
